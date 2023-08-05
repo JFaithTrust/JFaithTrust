@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave%20(1).jpg"/>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
@@ -22,4 +21,4 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | VUE JS | VUEX | Chart JS
 - ⚙️  &nbsp; GIT | GIT HUB
 - 🔧 &nbsp; Visual Studio Code | WebStorm
-<img src="https://raw.githubusercontent.com/joetancy/joetancy/master/wave.jpg"/>
+
