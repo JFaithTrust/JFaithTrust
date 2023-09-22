@@ -9,7 +9,7 @@
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning React and Full-Stack Development; 
+- 🌱 I’m currently learning Full-Stack Development; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: jahongirsolijoniy@gmail.com;
@@ -18,7 +18,7 @@
 
 - 💻 &nbsp; C++
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | VUE JS | VUEX | Chart JS
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | VUE JS | VUEX | Chart JS | React | Redux | Material UI | TypeScript
 - ⚙️  &nbsp; GIT | GIT HUB
 - 🔧 &nbsp; Visual Studio Code | WebStorm
 
