@@ -18,7 +18,7 @@
 
 - 💻 &nbsp; C++
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | VUE JS | VUEX | Chart JS | React | Redux | Material UI | TypeScript
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | VUE JS | Three js | Chart JS | React | Redux | Material UI | TypeScript | Zod | Zustand
 - ⚙️  &nbsp; GIT | GIT HUB
 - 🔧 &nbsp; Visual Studio Code | WebStorm
 
