@@ -3,6 +3,10 @@
 
 <br>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<a href="https://github.com/JFaithTrust">
+                    <img
+                        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JFaithTrust&bg_color=0d1117&text_color=bdc3c7&title_color=3178c6&hide_border=true&layout=compact&langs_count=10"/>
+                </a>
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
@@ -13,9 +17,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++
+- 💻 &nbsp; C++ | Node js | Mongo DB | Appwrite | Sanity
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Tailwind CSS | VUE JS | Three js | Chart JS | React | Redux | Material UI | TypeScript | Zod | Zustand
+- 🌐 &nbsp; JavaScript | Bootstrap | Tailwind CSS | VUE JS | Three JS | Chart JS | React | Redux | Material UI | TypeScript | Zod | Zustand | Shadcn/ui | Next JS
 - ⚙️  &nbsp; GIT | GIT HUB
 - 🔧 &nbsp; Visual Studio Code | WebStorm
 
