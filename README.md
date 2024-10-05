@@ -5,7 +5,6 @@
 <h3 align="center">I'm Front End Developer 🚀 from Uzbekistan, currently, I'm in my senior year of Tashkent University of Information Technologies.</h3>
 
 <br>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
