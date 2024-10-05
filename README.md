@@ -20,6 +20,7 @@
 - ⚙️  &nbsp; GIT | GIT HUB
 - 🔧 &nbsp; Visual Studio Code | WebStorm
 
+📊 Profile stats
 
 <a href="https://github.com/JFaithTrust">
                     <img
