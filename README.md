@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p>
-<h1 align="center">Hi 👋, I'm Jahongir</h1>
+<h1 align="center">Hi There👋, I'm Jahongir</h1>
 <h3 align="center">I'm Front End Developer 🚀 from Uzbekistan, currently, I'm in my senior year of Tashkent University of Information Technologies.</h3>
 
 <br>
