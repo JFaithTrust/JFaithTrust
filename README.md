@@ -6,7 +6,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 👨🏽‍💻 I’m currently working on kettu web app;
 - 🌱 I’m currently learning Full-Stack Development; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
