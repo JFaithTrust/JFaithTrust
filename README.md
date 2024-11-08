@@ -11,7 +11,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 - 📫 How to reach me: jahongirsolijoniy@gmail.com;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jfaithtrust&label=Profile%20views&color=0e75b6&style=flat" alt="jfaithtrust" /> </p>
+
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C++ | Node js | Mongo DB | Appwrite | Sanity
@@ -20,6 +20,7 @@
 - ⚙️  &nbsp; GIT | GIT HUB
 - 🔧 &nbsp; Visual Studio Code | WebStorm
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jfaithtrust&label=Profile%20views&color=0e75b6&style=flat" alt="jfaithtrust" /> </p>
 📊 Profile stats
 
   <a href="https://github.com/JFaithTrust">
